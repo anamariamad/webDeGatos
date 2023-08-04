@@ -1,0 +1,91 @@
+
+body {
+    background-color: #1F8383;
+  }
+  
+  .redes{
+    background-color: #2DE1CC;
+    border-radius: 21px;
+  }
+  
+  .redesicon{
+    font-size: 25px!important;
+  }
+  
+  .mainTitel{
+    font-family: Irish Grover;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;  
+  }
+  
+  .secondTitel{
+    margin-left: 180px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 46.6458px;
+    line-height: 56px;
+    color: #FFFFFF;
+  
+  }
+  
+  .socialicon{
+    width: 100%;
+    height: auto;
+   
+  }
+  
+  .gato1{
+    border-radius: 75px;
+    height: 190px;
+  }
+  
+  .gatosFotos{
+    border-radius: 30px;
+    height: 159px;
+    width: auto!important;
+  }
+  
+  .text-center{
+    margin-left: 130px!important;
+    margin-right: 160px!important;
+  }
+  
+  .textgatoimg{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 29px;
+    text-align: justify;
+  
+    color: #FFFFFF;
+  }
+  
+  .h1footer{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 48px;
+  
+    color: #FFFFFF;
+  }
+  
+  .bi-search{
+    color: #ffffff;
+  }
+  
+  .bi-search:hover{
+    color: black;
+  }
+  
+  .cntgatuno{
+    background-color: #D9D9D9;
+    border-radius: 30px;
+  }
+  
+  
