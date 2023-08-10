@@ -2,5 +2,6 @@
 #Es un mockup de gatitos de figma pasado a código con css y html
 
 
-![image](https://github.com/anamariamad/webdegatitosrepositorio/assets/134279099/95d81453-1c12-4138-9a04-89e9b2f6ad17)
+![miwebdeGatos](https://github.com/anamariamad/webDeGatos/assets/134279099/468a1cbd-f3dc-4433-aff0-424ed22c993a)
+
 
